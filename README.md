@@ -14,6 +14,8 @@ npm init @eslint/config
 ## Instrucciones para instalar Prettier
 
 ```
-npm install --save-dev --save-exact prettier
+npm install --save-dev --save-exact prettier eslint-config-prettier
 echo {}> .prettierrc.json
+
+# Actualiza tu .eslintrc con [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier). Mas detalles en [Integrating with Linters](https://prettier.io/docs/en/integrating-with-linters.html)
 ```
