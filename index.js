@@ -10,7 +10,6 @@ sumar(5);
 sumar(6, 3);
 sumar();
 
-a = "otra cosa";
 
 // Ejemplo 2.
 
